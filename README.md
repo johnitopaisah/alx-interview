@@ -80,4 +80,4 @@ This project is open-source and available under the MIT License.
 
 For any inquiries, feel free to contact me at **johnitopaisah@gmail.com**.
 👍
-:cloud:
+`:cloud:`
